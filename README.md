@@ -1,3 +1,5 @@
+上网这么多年，第一次见自己挂自己的脑残，实在佩服。
+
 # 关于[ArchiDog1998（秋水）](https://github.com/ArchiDog1998)的[爹味小作文](https://archidog1998.github.io/RotationSolver/#/ChineseServer/)
 
 关于 AA 的前世今生，具体移步[这里](https://github.com/ArchiDog1998/RotationSolver#%E5%AF%B9%E4%BA%8E%E5%9B%BD%E6%9C%8D%E7%94%A8%E6%88%B7)配合食用
