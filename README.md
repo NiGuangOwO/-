@@ -18,7 +18,7 @@
 提供代码贡献者更可以体验免控，攻击距离增加，技能不位移等私密功能！
 现在还未正式发布，在测试期间提供贡献者更有神秘功能体验！
 快来加入AEAssist2.0大家庭，一起为FF14的高难自动循环贡献力量！
-[点击链接加入群聊【AEAssist 2.0】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=EyT0BfZWCVq8v2yiMjSqcb4lEqYuaF_P&authKey=UJFoVZ3OljlBhSilXpeLKIIzofI4ZUjJfjuqCgr%2BiaT3Y6HmQFVbXZ5xBOlSv5yZ&noverify=0&group_code=552689154)
+[点击加入Discord](https://discord.gg/w2DPwRRZuT)
 
 # 关于[ArchiDog1998（秋水）](https://github.com/ArchiDog1998)的[爹味小作文](https://archidog1998.github.io/RotationSolver/#/ChineseServer/)
 
