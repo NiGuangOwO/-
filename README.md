@@ -20,9 +20,11 @@
 快来加入AEAssist2.0大家庭，一起为FF14的高难自动循环贡献力量！
 [点击加入Discord](https://discord.gg/w2DPwRRZuT)
 
-# 关于[ArchiDog1998（秋水）](https://github.com/ArchiDog1998)的[爹味小作文](https://archidog1998.github.io/RotationSolver/#/ChineseServer/)
+# 关于[ArchiDog1998（秋水）](https://github.com/ArchiDog1998)的[爹味小作文](https://github.com/NiGuangOwO/-/blob/main/ChineseServer/README.md)
 
-关于 AA 的前世今生，具体移步[这里](https://github.com/ArchiDog1998/RotationSolver#%E5%AF%B9%E4%BA%8E%E5%9B%BD%E6%9C%8D%E7%94%A8%E6%88%B7)配合食用
+关于 AA 的前世今生，具体移步 [这里](https://github.com/ArchiDog1998/RotationSolver/tree/99637a4e85b0c5fb359d5cd8639d1ffd30107b9a?tab=readme-ov-file#%E5%AF%B9%E4%BA%8E%E5%9B%BD%E6%9C%8D%E7%94%A8%E6%88%B7) 配合食用
+
+详细全文：[作者分析](https://github.com/NiGuangOwO/-/blob/main/ChineseServer/authors.md) [用户分析](https://github.com/NiGuangOwO/-/blob/main/ChineseServer/users.md)
 
 ## 到底在说谁呢
 
@@ -42,31 +44,31 @@
 ---
 
 **在 RS2.2.5 版本后，秋某重新添加属于作者名的属性一栏，并将以前所有职业的循环归属于自己名下 😅😅😅** ![](img/1-13.png)  
-**请问你是如何在没做到全职业满级的情况下写出全职业循环的，你一定是天才吧 Yukki Imai@Tonberry** ![](img/1-14.png)截于 2023-4-12  
+
+**请问你是如何在没做到全职业满级的情况下写出全职业循环的，你一定是天才吧 Yukki Imai@Tonberry** ![](img/1-14.png)
+
+截于 2023-4-12  
 哦，你的号还是淘宝买的，有些满级职业还不是你自己打出来的呢
 
 在 AA 开始有其他开发者加入编写循环后，秋某于**2022 年 11 月 9 日**提交了修改![](img/1-1.png)  
-第一次提到**循环的作者**这一概念并在插件中显示作者名称。以下是原始代码
 
+第一次提到**循环的作者**这一概念并在插件中显示作者名称。以下是原始代码
 ![](img/1-2.png)![](img/1-3.png)
 
 截止秋某声称停止维护的最后一个版本**0.11.0.3**,以下是所有职业的维护情况
-
 ![](img/1-4.png)![](img/1-5.png)![](img/1-6.png)![](img/1-7.png)![](img/1-8.png)
 
 以上可以看出在停更前几乎全职业都有作者在维护循环，**不知你怎么有脸给各个作者扣上《自私且慵懒的同僚》帽子，就因为单方面宣布停更然后没人接盘吗 😅😅😅**
 
 #### 以下是转折点
 
-在秋某重新开始维护并将 AA 改名为 RotationSolver（以下简称 RS）后，在**2023 年 1 月 19 日**一次不起眼的[更新](https://github.com/ArchiDog1998/RotationSolver/commit/c770978fd50f87380b11129bddb86f25969013dc)中![](img/1-9.png)将循环代码中**原本定义为作者名字（Author）的变量名更改为循环名字（RotationName），尝试抹去原来所有作者努力的痕迹**
-
+在秋某重新开始维护并将 AA 改名为 RotationSolver（以下简称 RS）后，在**2023 年 1 月 19 日**一次不起眼的 [更新](https://github.com/ArchiDog1998/RotationSolver/commit/c770978fd50f87380b11129bddb86f25969013dc) 中将循环代码中**原本定义为作者名字（Author）的变量名更改为循环名字（RotationName），尝试抹去原来所有作者努力的痕迹**![](img/1-9.png)
 ![](img/1-10.png)
 
-并在后续的[提交](https://github.com/ArchiDog1998/RotationSolver/commit/c9dec3bc99b7518000f155d8453495c5d774b246)中![](img/1-11.png)将所有职业的作者名字修改为 default
-
+并在后续的 [提交](https://github.com/ArchiDog1998/RotationSolver/commit/c9dec3bc99b7518000f155d8453495c5d774b246) 中将所有职业的作者名字修改为 default ![](img/1-11.png)
 ![](img/1-12.png)
 
-关于以上变动呢，秋某本人是怎么狡辩的呢，在这个[视频](https://www.bilibili.com/video/BV1624y1z7iv/)可以看到
+关于以上变动呢，秋某本人是怎么狡辩的呢，在这个 [视频](https://www.bilibili.com/video/BV1624y1z7iv/) 可以看到
 
 省流原话如下：   
 那么首先第一个哈，就是我没有把作者全部改成 default，为什么呢，因为这是我在新改的插件里面已经没有作者，这一栏用的是 rotation name，所以说它是循环名称啊
