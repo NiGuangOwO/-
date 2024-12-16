@@ -11,14 +11,9 @@
 与多个卫月底裤插件兼容，拥有AE，就是拥有底裤！
 心动不如心动，机不可失时不再来
 不要998 不要98 也不要9.8
-只要进群获取AE测试码，你就可以立刻体验爽滑的高难自动循环体验！
-
-除此之外，AEAssist还拥有各项底裤功能
-速度增加，显示身位，自动四人本，TP瞬移
-提供代码贡献者更可以体验免控，攻击距离增加，技能不位移等私密功能！
-现在还未正式发布，在测试期间提供贡献者更有神秘功能体验！
-快来加入AEAssist2.0大家庭，一起为FF14的高难自动循环贡献力量！
-[点击加入Discord](https://discord.gg/w2DPwRRZuT)
+只要加入Discord服务器，你就可以立刻体验爽滑的高难自动循环体验！
+快来加入AEAssist大家庭，一起为FF14的高难自动循环贡献力量！
+[点击加入Discord](https://discord.gg/aeassist)
 
 # 关于[ArchiDog1998（秋水）](https://github.com/ArchiDog1998)的[爹味小作文](https://github.com/NiGuangOwO/-/blob/main/ChineseServer/README.md)
 
