@@ -1,20 +1,5 @@
 上网这么多年，第一次见自己挂自己的脑残，实在佩服。
 
-# 喜欢引流？广告位不请自来
-你还在为RB自动循环不够精细而心生苦恼吗？
-你还在为MINION精修轴太贵而囊中羞涩吗？
-你还在为自动循环的LOGS太低而暗自愤慨吗？
-
-使用AEAssist，给你最优质的面向高难自动循环体验！
-自定义爆发，多条件处理让你logs99
-可视化编程，让小白也可以飞速上手写轴
-与多个卫月底裤插件兼容，拥有AE，就是拥有底裤！
-心动不如心动，机不可失时不再来
-不要998 不要98 也不要9.8
-只要加入Discord服务器，你就可以立刻体验爽滑的高难自动循环体验！
-快来加入AEAssist大家庭，一起为FF14的高难自动循环贡献力量！
-[点击加入Discord](https://discord.gg/aeassist)
-
 # 关于[ArchiDog1998（秋水）](https://github.com/ArchiDog1998)的[爹味小作文](https://github.com/NiGuangOwO/-/blob/main/ChineseServer/README.md)
 
 关于 AA 的前世今生，具体移步 [这里](https://github.com/ArchiDog1998/RotationSolver/tree/99637a4e85b0c5fb359d5cd8639d1ffd30107b9a?tab=readme-ov-file#%E5%AF%B9%E4%BA%8E%E5%9B%BD%E6%9C%8D%E7%94%A8%E6%88%B7) 配合食用
